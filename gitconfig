@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlos.baez.fumero@gmail.com
+	name = Carlos Baez Fumero
